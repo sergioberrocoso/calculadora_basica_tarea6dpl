@@ -16,7 +16,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         Calculadora calculadora = new Calculadora();
 
-        System.out.println("Bienvenido a la calculadora básica.");
+        System.out.println("Bienvenido a la nueva calculadora Básica con control de versiones en Github.");
         while (true) {
             System.out.print("Ingrese el primer número (o 'salir' para terminar): ");
             String input1 = scanner.nextLine();
